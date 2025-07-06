@@ -42,7 +42,7 @@ AnToanBaoMatThongTin/
 ## 🚀 Cách chạy chương trình
 ```bash
 # Clone repo
-git clone https://github.com/phankhai04112004/secure-sensitive-data
+git clone https://github.com/dk123-bb/An-Toan-Bao-Mat-Thong-Tin/tree/main
 
 # Cài thư viện
 pip install -r requirements.txt
